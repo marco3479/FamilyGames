@@ -1,8 +1,9 @@
 // To use Unsplash, create a .env file in your project root with:
-// VITE_UNSPLASH_ACCESS_KEY=your_access_key_here
 import { useState, useEffect } from "react";
 import animals from "./animals";
 import Button from "../../components/Button";
+
+// Michael's the man
 
 function shuffle(array) {
   return array
